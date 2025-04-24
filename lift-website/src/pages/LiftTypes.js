@@ -10,7 +10,7 @@ const LiftTypes = () => {
         {types.map((type) => (
           <div key={type} className="bg-white p-4 rounded shadow">
             <h3 className="text-xl font-semibold mb-2">{type}</h3>
-            <img src="https://via.placeholder.com/400x200" alt={type} className="rounded" />
+            <img src="https://th.bing.com/th/id/OIP.r03053QxyZVPvIeTMp1fGwHaJ4?rs=1&pid=ImgDetMain" alt={type} className="rounded" />
           </div>
         ))}
       </div>

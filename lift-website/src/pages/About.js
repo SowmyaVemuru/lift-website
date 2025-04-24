@@ -8,6 +8,7 @@ const About = () => {
         We are a trusted provider of lift solutions with years of experience in installation,
         servicing, and modernization of all types of lifts.
       </p>
+      
     </div>
   );
 };
